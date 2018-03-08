@@ -1,1 +1,1 @@
-text for master app
+this is a test file
